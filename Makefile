@@ -8,12 +8,13 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_HOST=localhost
-SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/var/www
-
 GITHUB_PAGES_BRANCH=gh-pages
+
+CONDA_EXE ?= conda
+CONDA_ENV ?= ./env
+
+# Assign and re-assign commands with prefix to run in the conda environment
+PELICAN := "$(CONDA_EXE)" run -p "$(CONDA_ENV)" $(PELICAN)
 
 
 DEBUG ?= 0
