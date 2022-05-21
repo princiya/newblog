@@ -1,0 +1,7 @@
+channels:
+  - defaults
+dependencies:
+  - pip
+  - python >=3.9,<3.10
+  - pip:
+    - -r requirements.txt

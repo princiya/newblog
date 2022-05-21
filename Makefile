@@ -55,6 +55,10 @@ help:
 	@echo 'Set the RELATIVE variable to 1 to enable relative urls                    '
 	@echo '                                                                          '
 
+setup:
+	@if [ -z "$${CONDA_SHLVL:+x}" ]; then echo "Conda is not installed." && exit 1; fi
+	$(CONDA_EXE) env $(shell [ -d $(CONDA_ENV) ] && echo update || echo create) -p $(CONDA_ENV) --file environment.yml
+
 html:
 	"$(PELICAN)" "$(INPUTDIR)" -o "$(OUTPUTDIR)" -s "$(CONFFILE)" $(PELICANOPTS)
 
