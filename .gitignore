@@ -1,0 +1,9 @@
+# Conda environment
+/env
+
+# Build output
+/output
+
+__pycache__
+
+.DS_Store

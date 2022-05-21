@@ -1,0 +1,40 @@
+name: Build & Publish Princiya's Blog
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    name: Build & Publish
+    runs-on: "ubuntu-latest"
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # tag=v3
+      - name: Create Environment
+        run: |
+          source $CONDA/bin/activate
+          make setup
+      - name: Build
+        run: |
+          source $CONDA/bin/activate
+          conda activate ./env
+          make publish
+      - name: Publish
+        if: github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@068dc23d9710f1ba62e86896f84735d869951305 # tag=v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output
+          cname: princiya.com/newblog
+          destination_dir: newblog
+      - name: Archive
+        if: always()
+        uses: actions/upload-artifact@6673cd052c4cd6fcf4b4e6e60ea986c889389535 # tag=v3
+        with:
+          name: techblog
+          path: output/**
+          retention-days: 5
