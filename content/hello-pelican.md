@@ -4,7 +4,7 @@ Category: Python
 Tags: blog, story
 Cover: images/pelican.jpg
 
-![Cover image](/images/pelican.jpg)
+![Cover image](./images/pelican.jpg)
 
 I finally did it! This is my first attempt to move away from Gatsby, static site generator that I used to write my blog previously.
 
