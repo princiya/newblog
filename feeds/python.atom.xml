@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>P's blog - Python</title><link href="https://princiya.com/newblog/" rel="alternate"></link><link href="https://princiya.com/newblog/feeds/python.atom.xml" rel="self"></link><id>https://princiya.com/newblog/</id><updated>2022-05-20T00:00:00+02:00</updated><entry><title>Hello Pelican!</title><link href="https://princiya.com/newblog/hello-pelican.html" rel="alternate"></link><published>2022-05-20T00:00:00+02:00</published><updated>2022-05-20T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2022-05-20:/newblog/hello-pelican.html</id><summary type="html">&lt;p&gt;&lt;img alt="Cover image" src="images/pelican.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;I finally did it! This is my first attempt to move away from Gatsby, static site generator that I used to write my blog previously.&lt;/p&gt;
+&lt;p&gt;Given that I work at Anaconda, and how everything revolves around Python, I decided to try Pelican.&lt;/p&gt;
+&lt;p&gt;My first encounter with Pelican was when I …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="Cover image" src="images/pelican.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;I finally did it! This is my first attempt to move away from Gatsby, static site generator that I used to write my blog previously.&lt;/p&gt;
+&lt;p&gt;Given that I work at Anaconda, and how everything revolves around Python, I decided to try Pelican.&lt;/p&gt;
+&lt;p&gt;My first encounter with Pelican was when I worked on engineering.anaconda.com last month and customised CSS there.&lt;/p&gt;
+&lt;h2&gt;Why no to Gatsby&lt;/h2&gt;
+&lt;p&gt;Gatsby was getting slow, and I knew at some point I had to migrate away from Gatsby. The last post I had published was in January.&lt;/p&gt;
+&lt;p&gt;Earlier this month, during FOSS Friday at Anaconda (once a month we all work on opensource projects) I decided to write a blog post for Anaconda's blog. I wanted to publish the first version of my draft on my blog, but when I tried to deploy Gatsby, it would not run. After &lt;code&gt;n&lt;/code&gt; no. of efforts, event trying to upgrade to Gatsby v3 and v4, I had no luck.&lt;/p&gt;
+&lt;h2&gt;Why no to Hashnode&lt;/h2&gt;
+&lt;p&gt;My first choice was Hashnode, I had heard lot of good things about Hashnode and how Hashnode let users customise SEO too. I was able to publish my blog post on Hashnode, and in the excitement I also published 2 additional posts that I was wanting to write.&lt;/p&gt;
+&lt;p&gt;Hashnode was very easy to use and setup. But in the end I wanted to own and be able to customise my blog the way I wanted. I even considered paid options, because in ~6 months time I didn't want to run into the same problem I faced with Gatsby; i.e. either the tech dependencies get outdated and I need to spend time on catching up with the latest versions or some platform like Hashnode ends up restrictions on users.&lt;/p&gt;
+&lt;h2&gt;Pelican it is&lt;/h2&gt;
+&lt;p&gt;In the past, I have tried Jekyll and Hugo. I was not happy with both of them, mainly because they were not Javascript based. This is the reason, I was very happy in using Gatsby, and to add to my comfort, it was React based. I did get to learn GraphQL too.&lt;/p&gt;
+&lt;p&gt;Given the comfort zone I was in, I chose to ignore all of Gatsby's warning signs and at the time of writing this blog post I had to finally choose between Hashnode vs Pelican, and I chose Pelican.&lt;/p&gt;
+&lt;h2&gt;Next steps&lt;/h2&gt;
+&lt;p&gt;Over the last 2 years, I did spend decent time in customising my Gatsby blog; CSS, content and social sharing cards. In fact, I also wrote a custom Gatsby plugin to have automated social sharing cards in GIFs.&lt;/p&gt;
+&lt;p&gt;So far, I have all the things I need from Pelican. I will focus on writing as a consistent habit and when I get time I will try to migrate my entire blog to this newer version.&lt;/p&gt;
+&lt;p&gt;Fingers crossed!&lt;/p&gt;</content><category term="Python"></category><category term="blog"></category><category term="story"></category></entry></feed>
