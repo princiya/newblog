@@ -22,26 +22,29 @@ THEME_COLOR_AUTO_DETECT_BROWSER_PREFERENCE = True
 THEME_COLOR_ENABLE_USER_OVERRIDE = True
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),)
+LINKS = (('About', 'https://princiya.com/'),
+         ('Speaking', 'https://princiya.com/pages/talks.html'),
+         ('Writing', 'https://princiya.com/blog'),
+        ('Testimonials', 'https://princiya.com/pages/testimonials.html'), )
 
 # Social widget
 SOCIAL = (
     ("github", "https://github.com/princiya"),
-    ("rss", "/blog/feeds/all.atom.xml"),
+    ("twitter", "https://twitter.com/princi_ya"),
+    ("linkedin", "https://www.linkedin.com/in/princiya/"),
+    ("rss", "/newblog/feeds/all.atom.xml"),
 )
 
 MENUITEMS = (
-    ("Archives", "/archives.html"),
-    ("Categories", "/categories.html"),
-    ("Tags", "/tags.html"),
+    ("Archives", "/newblog/archives.html"),
+    ("Categories", "/newblog/categories.html"),
+    ("Tags", "/newblog/tags.html"),
 )
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
 
 THEME = "themes/flex"
 

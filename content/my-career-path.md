@@ -1,8 +1,12 @@
 Title: My Career Path
-Date: 2022-05-20
-Category: Story
+Date: 2022-05-21
+Category: Mentoring
+Tags: career, story
+Cover: images/career.jpg
 
-My name is Princiya Sequeira and I am the Engineering Manager at Anaconda in Germany.
+![Cover image](images/career.jpg)
+
+My name is Princiya Sequeira and I am an Engineering Manager at Anaconda in Germany.
 I am from India and I relocated to Germany 7 years ago.
 I have a bachelor’s degree in Computer Science engineering, a dozen years of experience building full-stack web and mobile apps, and leading technical teams.
 

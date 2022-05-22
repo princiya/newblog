@@ -1,12 +1,14 @@
 Title: Resume Review
-Date: 2021-12-03 10:20
-Category: News
-Tags: pelican, python, theme
-Cover: images/server.jpg
+Date: 2022-02-15
+Category: Mentoring
+Tags: career, job, resume
+Cover: images/resume.jpg
 
-![Cover image](images/server.jpg)
+![Cover image](images/resume.jpg)
 
-resume is your marketing pitch.
+> Resume is your marketing pitch.
+
+_Following is an excerpt from "RE:View Series - Resume Review" that I organised for WWCode Frontend in February 2022._
 
 A good advice I have received is - apply for jobs not when you need them but apply for jobs when you need the least so that you have nothing to lose, can perform well under pressure. So that also applies to make sure you constantly update your resume to know the trends, what works vs what does not. 🙂 
 
