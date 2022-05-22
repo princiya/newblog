@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>P's blog</title><link href="https://princiya.com/newblog/" rel="alternate"></link><link href="https://princiya.com/newblog/feeds/all.atom.xml" rel="self"></link><id>https://princiya.com/newblog/</id><updated>2022-05-21T00:00:00+02:00</updated><entry><title>My Career Path</title><link href="https://princiya.com/newblog/my-career-path.html" rel="alternate"></link><published>2022-05-21T00:00:00+02:00</published><updated>2022-05-21T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2022-05-21:/newblog/my-career-path.html</id><summary type="html">&lt;p&gt;&lt;img alt="Cover image" src="images/career.jpg"&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>P's blog</title><link href="https://princiya.com/newblog/" rel="alternate"></link><link href="https://princiya.com/newblog/feeds/all.atom.xml" rel="self"></link><id>https://princiya.com/newblog/</id><updated>2022-05-22T00:00:00+02:00</updated><entry><title>Grieving over a job break up</title><link href="https://princiya.com/newblog/grieving-over-a-job-break-up.html" rel="alternate"></link><published>2022-05-22T00:00:00+02:00</published><updated>2022-05-22T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2022-05-22:/newblog/grieving-over-a-job-break-up.html</id><summary type="html">&lt;p&gt;&lt;img alt="Cover image" src="images/grief.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;It's been a year! On this day, last year, I resigned from my previous job where I was the Head of Frontend Engineering at Curalie GmbH for 3 years.&lt;/p&gt;
+&lt;p&gt;I had grown in this role into engineering leadership and I could not have been happier with my career path. But …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="Cover image" src="images/grief.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;It's been a year! On this day, last year, I resigned from my previous job where I was the Head of Frontend Engineering at Curalie GmbH for 3 years.&lt;/p&gt;
+&lt;p&gt;I had grown in this role into engineering leadership and I could not have been happier with my career path. But after 3 years, it was also the time for me to move on and look for bigger challenges in an environment where values and culture were more valuable for the organisation.&lt;/p&gt;
+&lt;h2&gt;My time at Curalie&lt;/h2&gt;
+&lt;p&gt;I joined Curalie as a Senior Frontend Engineer and took up the role as Lead Engineer shortly. During this time, I had a team to manage while also overseeing the product deliverables. I was one of the first 5 engineers in the company when I had joined and at the time when I left, the tech team was about ~50, and the frontend team had grown to ~12 people.&lt;/p&gt;
+&lt;p&gt;I was still hands-on coding on that role. On the frontend, our team used React and React Native. My favorite accomplishments:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Setting up the entire automated build pipeline for React Native using Fastlane &lt;/li&gt;
+&lt;li&gt;Setting up automated end to end testing for React using Cypress, including api testing using Pact&lt;/li&gt;
+&lt;li&gt;Setting up automated end to end - integration testing for React Native using Testproject.io that worked well with our manual QA team&lt;/li&gt;
+&lt;li&gt;Strategising product deliverables and aligning the entire team with the roadmap&lt;/li&gt;
+&lt;li&gt;Empathetic and authentic leadership&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Decision to move on was not hard, but emotional&lt;/h2&gt;
+&lt;p&gt;Resigning from Curalie was not hard, but it turned out to be emotional, more than I expected.&lt;/p&gt;
+&lt;p&gt;I resigned, submitted my papers and had a loud cry.&lt;/p&gt;
+&lt;p&gt;It is during this time that I realised that I just had a job break up, a job that I enjoyed and had grown as a person and a leader. I had to grieve over it.&lt;/p&gt;
+&lt;p&gt;I asked the following question in Elpha.com.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Dear Elpha community,
+I handed in my resignation at work today. Although I still have the 3-month notice period and was passively preparing for this resignation, I was not ready for the kind of emotions I am having today.
+I cried aloud and now I have this sense of loss although I know something exciting is waiting ahead.
+How to deal with this or how to mourn effectively?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I got good advice from folks and I decided to use the time to say goodbyes to colleagues and work on a good handover.&lt;/p&gt;
+&lt;p&gt;https://elpha.com/posts/kpo019t4/how-to-mourn-after-job-resignation&lt;/p&gt;
+&lt;h2&gt;Interviewing and grieving&lt;/h2&gt;
+&lt;p&gt;As funny as it apears to me today, on the day I resigned I sent an email to Anaconda saying after the first HR screen I was no longer interested in continuing the inteview process. Jessica, SVP Operations at Anaconda convinced me that I should take the Manager screen interview which was scheduled for the next day.&lt;/p&gt;
+&lt;p&gt;I had to grieve and I was not ready for an interview. I was tired and needed a break. But since the interview was already scheduled for the next day I decided to continue the interview process.&lt;/p&gt;
+&lt;h2&gt;Manager screen at Anaconda&lt;/h2&gt;
+&lt;p&gt;I had no major expectations from the interview, but just after the interview started and I was talking to Nick, the then VP Engineering, I felt a connection. We also spoke about my resignation, me mourning and also how I was not looking forward to the interview and wanted it to be cancelled.&lt;/p&gt;
+&lt;p&gt;Towards the end of the hour, the call went beyond ~10 mins, and we both were happy about our interview. I wanted to a job at Anaconda and I was looking forward to the next rounds.&lt;/p&gt;
+&lt;p&gt;During the next panel rounds, I met amazing people who are now great colleagues. During the final round, I met Kevin, CTO, who is now my Manager at Anaconda.&lt;/p&gt;
+&lt;p&gt;We had 30 minutes scheduled, and knowing how busy a CTO would be, I had tried to read up as much as I could about Kevin so that I could ask him good questions in the 5 minutes that I would get after he would be done asking me questions.&lt;/p&gt;
+&lt;p&gt;But Kevin surprised me and asked if I had any questions in the beginning itself. My homework did pay, and we had a good conversation.&lt;/p&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;I always listen to myself, always on the watch for any signs that bother me. I give a second chance, but beyond that I treat as warning signs and then believe in taking necessary actions.&lt;/p&gt;
+&lt;p&gt;Although things were good at Curalie, things became limited for my growth both in terms of salary and impact. I decided to resign.&lt;/p&gt;
+&lt;p&gt;But mourning over a job was a new experience and it is a thing!&lt;/p&gt;</content><category term="Mentoring"></category><category term="job"></category><category term="story"></category></entry><entry><title>My Career Path</title><link href="https://princiya.com/newblog/my-career-path.html" rel="alternate"></link><published>2022-05-21T00:00:00+02:00</published><updated>2022-05-21T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2022-05-21:/newblog/my-career-path.html</id><summary type="html">&lt;p&gt;&lt;img alt="Cover image" src="images/career.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;My name is Princiya Sequeira and I am an Engineering Manager at Anaconda in Germany.
 I am from India and I relocated to Germany 7 years ago.
 I have a bachelor’s degree in Computer Science engineering, a dozen years of experience building full-stack web and mobile apps, and leading …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="Cover image" src="images/career.jpg"&gt;&lt;/p&gt;
@@ -18,10 +58,10 @@ I was working at a startup, and a lot of people including my parents were asking
 &lt;p&gt;My philosophy about being a great leader is about being a good human being first. I like being authentic about myself. It is about who I am and being able to bring myself wholly into the job. I encourage others to do the same. Creating this kind of environment where everyone can be authentic about themselves is what I strive for. Empathy is the next important trait I care about.&lt;/p&gt;
 &lt;p&gt;I often advise people to chase their dreams. Create a learning curve for yourself, and get it verified by your peers or mentors. Find yourself a mentor.&lt;/p&gt;
 &lt;p&gt;Do not be afraid to ask questions and make sure whatever you choose for yourself, you are happy!&lt;/p&gt;
-&lt;p&gt;Thank you!&lt;/p&gt;</content><category term="Mentoring"></category><category term="career"></category><category term="story"></category></entry><entry><title>Hello Pelican!</title><link href="https://princiya.com/newblog/hello-pelican.html" rel="alternate"></link><published>2022-05-20T00:00:00+02:00</published><updated>2022-05-20T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2022-05-20:/newblog/hello-pelican.html</id><summary type="html">&lt;p&gt;&lt;img alt="Cover image" src="images/pelican.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;Thank you!&lt;/p&gt;</content><category term="Mentoring"></category><category term="career"></category><category term="story"></category></entry><entry><title>Hello Pelican!</title><link href="https://princiya.com/newblog/hello-pelican.html" rel="alternate"></link><published>2022-05-20T00:00:00+02:00</published><updated>2022-05-20T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2022-05-20:/newblog/hello-pelican.html</id><summary type="html">&lt;p&gt;&lt;img alt="Cover image" src="/images/pelican.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;I finally did it! This is my first attempt to move away from Gatsby, static site generator that I used to write my blog previously.&lt;/p&gt;
 &lt;p&gt;Given that I work at Anaconda, and how everything revolves around Python, I decided to try Pelican.&lt;/p&gt;
-&lt;p&gt;My first encounter with Pelican was when I …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="Cover image" src="images/pelican.jpg"&gt;&lt;/p&gt;
+&lt;p&gt;My first encounter with Pelican was when I …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="Cover image" src="/images/pelican.jpg"&gt;&lt;/p&gt;
 &lt;p&gt;I finally did it! This is my first attempt to move away from Gatsby, static site generator that I used to write my blog previously.&lt;/p&gt;
 &lt;p&gt;Given that I work at Anaconda, and how everything revolves around Python, I decided to try Pelican.&lt;/p&gt;
 &lt;p&gt;My first encounter with Pelican was when I worked on engineering.anaconda.com last month and customised CSS there.&lt;/p&gt;
