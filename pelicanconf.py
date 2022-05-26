@@ -49,3 +49,5 @@ RELATIVE_URLS = True
 THEME = "themes/flex"
 
 STATIC_PATHS = ['images']
+
+GOOGLE_ANALYTICS = "UA-170472515-1"

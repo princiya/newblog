@@ -6,7 +6,7 @@ Cover: images/pelican.jpg
 
 ![Cover image](./images/pelican.jpg)
 
-I finally did it! This is my first attempt to move away from Gatsby, static site generator that I used to write my blog previously.
+I finally did it! This is my first attempt to move away from Gatsby, static site generator that I used to write my [blog](https://princiya.com/blog) previously.
 
 Given that I work at Anaconda, and how everything revolves around Python, I decided to try Pelican.
 
