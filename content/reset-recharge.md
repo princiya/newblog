@@ -53,17 +53,19 @@ Let’s say you said yes, it is still not late to say no. What is stealing my en
 
 I was once asked by an intern if life as a software developer ever get boring after years of work?
 I asked them how did it feel like to be an intern?
-* Were you bored?
-* Was it challenging?
-* Were the days exciting?
-* Did you think of giving up?
+
+- Were you bored?
+- Was it challenging?
+- Were the days exciting?
+- Did you think of giving up?
 
 I then asked them to  reflect on the thing they did prior to their internship and if there were any similarities.
 Life as a software developer too goes through these phases, most of the time!
-* Boring
-* Challenging
-* Exciting
-* Give up
+
+- Boring
+- Challenging
+- Exciting
+- Give up
 
 ## My first failure
 
@@ -170,9 +172,10 @@ I decided to use the time to say goodbyes to colleagues and work on a good hando
 It is not easy. But we are humans, we need it more, we need it often.
 
 It is important to:
-* Unlearn from being harsh on yourself.
-* Do not fear failures, learn your lessons and move on.
-* Learn to stay happy and Look after your well-being.
+
+- Unlearn from being harsh on yourself.
+- Do not fear failures, learn your lessons and move on.
+- Learn to stay happy and Look after your well-being.
 
 Thank you women who code for this keynote opportunity.
 
