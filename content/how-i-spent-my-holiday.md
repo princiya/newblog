@@ -5,7 +5,7 @@ Tags: random
 
 It is a 4-day long weekend. Yesterday, 26th May was a German public holiday, and today is a snake day holiday from Anaconda.
 
-I spent the entire day yesterday preparing for my [keynote talk at WWCode Connect 2022](../reset-recharge), which was very well received. There was a lot of positive feedback and appreciation. Personally, I am very happy with this talk.
+I spent the entire day yesterday preparing for my [keynote talk at WWCode Connect 2022](./reset-recharge), which was very well received. There was a lot of positive feedback and appreciation. Personally, I am very happy with this talk.
 
 ## Snake days at Anaconda
 
