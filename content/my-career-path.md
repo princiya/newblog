@@ -1,7 +1,7 @@
 Title: My Career Path
 Date: 2022-05-21
 Category: Mentoring
-Tags: career, story
+Tags: career, story, pitch
 Cover: images/career.jpg
 
 ![Cover image](images/career.jpg)

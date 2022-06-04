@@ -1,5 +1,5 @@
 Title: Archives from princiya.com/blog
-Date: 2022-05-30
+Date: 2022-06-04
 Category: Javascript
 Tags: blog
 
