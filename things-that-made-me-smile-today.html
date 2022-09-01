@@ -162,7 +162,7 @@
     <p>Happy Monday! Yet another Monday, but I had a relaxing day today after a 4 day long weekend.</p>
 <p>Bonus, it is US holiday today, it is memorial day there and my US colleagues are having a long weekend too. This is also the reason why my day is not too packed today.</p>
 <p>I received the following message on Linkedin today.</p>
-<div class="highlight"><pre><span></span><code><span class="nv">I</span> <span class="nv">don</span><span class="s1">&#39;</span><span class="s">t know if you remember me but we were in the same class in the first year of Engg. at NMAMIT i.e., in 2005. I was a Civil Engg. student. I have been following your updates on Twitter and admire your thoughts and community efforts. Great to see you doing well.</span>
+<div class="highlight"><pre><span></span><code><span class="nv">I</span><span class="w"> </span><span class="nv">don</span><span class="err">&#39;t know if you remember me but we were in the same class in the first year of Engg. at NMAMIT i.e., in 2005. I was a Civil Engg. student. I have been following your updates on Twitter and admire your thoughts and community efforts. Great to see you doing well.</span><span class="w"></span>
 </code></pre></div>
 
 <p>This made me smile and made my Monday &lt;3.</p>
@@ -194,7 +194,17 @@ Built with <a href="http://getpelican.com" target="_blank">Pelican</a> using <a 
           data-default-theme="light"
           type="text/javascript">
   </script>
-</p>    </footer>
+</p>      <p id="blog_likes"></p>
+    </footer>
+    <script>
+      (async () => {
+        const response = await fetch('https://roaring-bonbon-2b4688.netlify.app/.netlify/functions/get-vote');
+        const data = await response.json();
+        const value = data ? data[0].value : 0
+        
+        document.getElementById('blog_likes').innerHTML = value;
+      })();
+    </script>
   </main>
 </body>
 </html>
