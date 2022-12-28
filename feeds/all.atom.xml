@@ -1,5 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>P's blog</title><link href="https://princiya.com/newblog/" rel="alternate"></link><link href="https://princiya.com/newblog/feeds/all.atom.xml" rel="self"></link><id>https://princiya.com/newblog/</id><updated>2022-06-15T00:00:00+02:00</updated><entry><title>3 tips for volunteer management</title><link href="https://princiya.com/newblog/3-tips-for-volunteer-management.html" rel="alternate"></link><published>2022-06-15T00:00:00+02:00</published><updated>2022-06-15T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2022-06-15:/newblog/3-tips-for-volunteer-management.html</id><summary type="html">&lt;p&gt;As a Leadership Fellow at Women Who Code, I talk to many folks interested in volunteering. These folks are either students or full-time job holders. They are usually excited about the prospect, but many fail to balance their time or even find the time and are ultimately unable to uphold …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As a Leadership Fellow at Women Who Code, I talk to many folks interested in volunteering. These folks are either students or full-time job holders. They are usually excited about the prospect, but many fail to balance their time or even find the time and are ultimately unable to uphold their volunteering commitments.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>P's blog</title><link href="https://princiya.com/newblog/" rel="alternate"></link><link href="https://princiya.com/newblog/feeds/all.atom.xml" rel="self"></link><id>https://princiya.com/newblog/</id><updated>2022-12-31T00:00:00+01:00</updated><entry><title>Archives from princiya.com/blog</title><link href="https://princiya.com/newblog/archives-from-princiyacomblog.html" rel="alternate"></link><published>2022-12-31T00:00:00+01:00</published><updated>2022-12-31T00:00:00+01:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2022-12-31:/newblog/archives-from-princiyacomblog.html</id><content type="html">&lt;p&gt;This is my new blog home based on Pelican.&lt;/p&gt;
+&lt;p&gt;See &lt;a href="./hello-pelican"&gt;hello-pelican&lt;/a&gt; post.&lt;/p&gt;
+&lt;p&gt;Meanwhile, all old posts are &lt;a href="https://princiya.com/blog"&gt;here&lt;/a&gt;. I hope to migrate all of them to one place, soon!&lt;/p&gt;</content><category term="Javascript"></category><category term="blog"></category></entry><entry><title>Women Who Code Fellowship 2021 - My experience</title><link href="https://princiya.com/newblog/women-who-code-fellowship-2021-my-experience.html" rel="alternate"></link><published>2022-08-07T00:00:00+02:00</published><updated>2022-08-07T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2022-08-07:/newblog/women-who-code-fellowship-2021-my-experience.html</id><summary type="html">&lt;p&gt;I gave my first keynote at WWCode Connect Recharge 2022. I am humbled by this opportunity. As a leadership fellow with WWCode I get to interact with the community and be recognised as a leader outside of my regular day to day job too. Thank you WWCode!&lt;/p&gt;
+&lt;p&gt;I got featured …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I gave my first keynote at WWCode Connect Recharge 2022. I am humbled by this opportunity. As a leadership fellow with WWCode I get to interact with the community and be recognised as a leader outside of my regular day to day job too. Thank you WWCode!&lt;/p&gt;
+&lt;p&gt;I got featured in Forbes - &lt;a href="https://www.forbes.com/sites/alainapercival/2021/12/01/the-wisdom-of-women-leaders-as-they-forge-the-post-pandemic-future/"&gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;How has having female leadership helped you in your career?&lt;/h3&gt;
+&lt;p&gt;It has helped to bring in more women/female easily into the job.&lt;/p&gt;
+&lt;h3&gt;What would you tell the women leaders who has impacted your career?&lt;/h3&gt;
+&lt;p&gt;Thank you for being there and continuing to be awesome.&lt;/p&gt;
+&lt;h3&gt;What traits have you or want to mimic based on other women in leadership?&lt;/h3&gt;
+&lt;p&gt;I like being authentic about myself. It is about who I am and being able to bring myself wholly into the job. I encourage others to do the same. Creating this kind of environment where everyone can be authentic about themselves is what I strive for. Empathy is the next important trait I care about. I was once asked “how to empathise with people when you haven’t been in the situation”. During these times I like to take the time to learn more about the situation itself. Listening well helps to empathise in situations when you cannot show direct empathy.&lt;/p&gt;
+&lt;h3&gt;What is your personal philosophy about being a great leader?&lt;/h3&gt;
+&lt;p&gt;Great leader is about being a good human being first. To define a great leader in one line - “it is to be able to hold the helm when the sea is not calm”. &lt;/p&gt;</content><category term="Leadership"></category><category term="wwcode"></category></entry><entry><title>Women Who Code Fellowship 2021 - The application phase</title><link href="https://princiya.com/newblog/women-who-code-fellowship-2021-the-application-phase.html" rel="alternate"></link><published>2022-07-07T00:00:00+02:00</published><updated>2022-07-07T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2022-07-07:/newblog/women-who-code-fellowship-2021-the-application-phase.html</id><summary type="html">&lt;p&gt;This was my pitch while applying for the wwcode fellowship.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Hi, My name is Princiya Sequeira. I am from India but now living in Germany. thanks to the job advertisement I found in the Women who code's newsletter 6 years ago which landed me a job here in Berlin. I …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This was my pitch while applying for the wwcode fellowship.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Hi, My name is Princiya Sequeira. I am from India but now living in Germany. thanks to the job advertisement I found in the Women who code's newsletter 6 years ago which landed me a job here in Berlin. I have more than 10 years of experience building full-stack web &amp;amp; mobile applications, and 3 years of experience leading technical teams at scale.&lt;/p&gt;
+&lt;p&gt;Apart from my day job, I also volunteer in coaching under-represented folks with opensource contributions, advise them with career decisions, resume reviews, and interview preparations. Given this background, I am very excited to apply for this leadership fellow position because I want to be able to make an impact to a larger global audience. As an underrepresented person in tech myself, I understand the challenges and do believe and strive to have a diverse representation at a technical leadership level at companies and in opensource. I do take pride in being able to be at an engineering management position which I envisioned 10 years ago and to get here I have had to overcome multiple hurdles. It's not an easy road and this is what definitely keeps me motivated, but often there are times when I am alone all by myself and nobody to the immediate rescue. Communities and events like this are a great place where you find similar people with whom you can connect to, get inspired by and to know that you are not alone. It is a matter of time when diverse representation in tech becomes the new norm and we don't have to empower the already empowered under-represented folks.&lt;/p&gt;
+&lt;p&gt;It is literally true that we can succeed best and quickest by helping others to learn and succeed and with Women who code events together we can do so much. &lt;/p&gt;
+&lt;p&gt;Begin by introducing yourself. Tell us why you are interested in becoming a Leadership Fellow.
+Next, we want to hear your Women Who Code pitch! Pretend you are starting your first event as a Fellow and share the WWCode Mission, Vision, and Code of Conduct.&lt;/p&gt;
+&lt;p&gt;Planning
+Promotion
+Agenda&lt;/p&gt;
+&lt;p&gt;We want to know how you would plan your first event.This question is required. *
+Explain the steps you would follow to plan the event, sharing as much detail as you'd like!&lt;/p&gt;
+&lt;p&gt;Topic - Theme
+Marketing
+Speakers
+Budget
+Feedback
+Logistics
+Registration
+Quality
+Code of conduct&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Choose a topic. "Craft your own web development journey" - We want to showcase different topics that one can choose to strengthen their web development career path.&lt;/li&gt;
+&lt;li&gt;Find speaker(s), check their availability.&lt;/li&gt;
+&lt;li&gt;Call for speakers from the audience sign up if they have any interesting web development journey to share. Security, accessibility, developer tools, core web standards, performance optimisations, opensource contributions.&lt;/li&gt;
+&lt;li&gt;Arrange budget/sponsors: Speaker reimbursements, logistics.&lt;/li&gt;
+&lt;li&gt;Setup tools/software for: event registration, volunteer management, feedback collection, notify audience and communicate with them about event updates, moderate the event access and guest list, record the event.&lt;/li&gt;
+&lt;li&gt;Assign volunteers to tasks, event moderation, topic curation, logistics, etc.&lt;/li&gt;
+&lt;li&gt;Write a Code of conduct for the event.&lt;/li&gt;
+&lt;li&gt;Measure the event's success: Setup metrics to collect, gather feedback from audience and speakers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;How would you promote the event?This question is required. *
+Consider the timeline, where you would promote it, etc.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Promote the event primarily on social media: Twitter (start promotion asap details are finalised).&lt;/li&gt;
+&lt;li&gt;Write a blog post about the event (2-3 weeks prior)&lt;/li&gt;
+&lt;li&gt;Ask speakers, volunteers, audience to promote the event (before and during the event)&lt;/li&gt;
+&lt;li&gt;Excite the audience who has signed up with additional details about the events, topics, etc. via emails&lt;/li&gt;
+&lt;li&gt;Identify volunteers to participate in event promotion and track progress. Focus on open and clear communication to meet expectations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Describe the event agendaThis question is required. *
+Explain start time, segments, duration, etc.&lt;/p&gt;
+&lt;p&gt;"Craft your own web development journey" - We want to showcase different topics that one can choose to strengthen their web development career path.
+- Choose a time slot that best fits global audience.
+- Ideally 3-5 hour event with wellness break, community chat time, etc. If there are ample topics and speaker availability then it could also be an 8 hour event.
+- If an ideal time slot cannot be found, run the event in 2 batches so that majority of the audience can participate.
+- Introduction (15 min)
+- Speaker 1 (20 mins, 5 min QnA)
+- 5 min break
+- Speaker 2 (20 mins, 5 min QnA)
+- 10 min break
+- Lightning talks (30 mins)
+- Break
+- Ask me anything or panel discussion (45 mins)
+- Game: (blind website design challenge or quiz)
+- Wrap up&lt;/p&gt;
+&lt;p&gt;Q: How has Women Who Code impacted your career and why is it important to you?&lt;/p&gt;
+&lt;p&gt;I gave my first keynote at WWCode Connect Recharge 2022. I am humbled by this opportunity. As a leadership fellow with WWCode I get to interact with the community and be recognised as a leader outside of my regular day to day job too. Thank you WWCode!&lt;/p&gt;
+&lt;p&gt;Q: How will you benefit from this scholarship? Please share 2 professional goals.&lt;/p&gt;
+&lt;p&gt;I am looking at ways to scale my career to the next level and I believe this scholarship can help me get access to a leadership coach, a global community of other peers who are on a similar path and learn and grow alongside.&lt;/p&gt;</content><category term="Leadership"></category><category term="wwcode"></category></entry><entry><title>3 tips for volunteer management</title><link href="https://princiya.com/newblog/3-tips-for-volunteer-management.html" rel="alternate"></link><published>2022-06-15T00:00:00+02:00</published><updated>2022-06-15T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2022-06-15:/newblog/3-tips-for-volunteer-management.html</id><summary type="html">&lt;p&gt;As a Leadership Fellow at Women Who Code, I talk to many folks interested in volunteering. These folks are either students or full-time job holders. They are usually excited about the prospect, but many fail to balance their time or even find the time and are ultimately unable to uphold …&lt;/p&gt;</summary><content type="html">&lt;p&gt;As a Leadership Fellow at Women Who Code, I talk to many folks interested in volunteering. These folks are either students or full-time job holders. They are usually excited about the prospect, but many fail to balance their time or even find the time and are ultimately unable to uphold their volunteering commitments.&lt;/p&gt;
 &lt;p&gt;Below are 3 tips that I often advise the community on how to efficiently manage their time between volunteering and other full-time activities and how to make the most of the community experience while not getting burned out.&lt;/p&gt;
 &lt;h2&gt;Move Away from Hustle Culture&lt;/h2&gt;
 &lt;p&gt;According to my observation, people sometimes want to be volunteers because they see others doing it and subscribe to the hustle culture. These people are the ones who often don’t come back when they realize volunteering is not meant for them—and that’s fine.&lt;/p&gt;
@@ -9,18 +82,18 @@
 &lt;p&gt;What is important or what is to be prioritized in this situation is to realize that our brains need to recharge and reset from the hustle and bustle.&lt;/p&gt;
 &lt;h2&gt;Learn to Say “No”&lt;/h2&gt;
 &lt;p&gt;Time management is a common topic of my discussions within the community. Some people know and acknowledge they are in a time crisis, but others are shy or hesitant to admit this. In order to have a good time balance, it is important to unlearn saying yes to everything, learn to say “NO,” and learn to prioritize what’s most important for oneself.&lt;/p&gt;
-&lt;p&gt;Following is a good checklist to consider when learning to say “No” to new tasks:
-- What purpose does this serve? “Be selfish, and identify what is most important to you” is what I constantly tell the volunteers.
-- Does this purpose align with my goals and priorities?
-- How might this drain my energy or motivation?
-- How will I refuel?&lt;/p&gt;
+&lt;p&gt;Following is a good checklist to consider when learning to say “No” to new tasks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What purpose does this serve? “Be selfish, and identify what is most important to you” is what I constantly tell the volunteers.&lt;/li&gt;
+&lt;li&gt;Does this purpose align with my goals and priorities?&lt;/li&gt;
+&lt;li&gt;How might this drain my energy or motivation?&lt;/li&gt;
+&lt;li&gt;How will I refuel?&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;When the phone battery drains it sends us scrambling for our chargers. Similarly, when a given workload drains our batteries, we often tend to ignore our own blinking red battery icon. We need to reevaluate the stereotypes and normalize having lazy weekends by doing nothing or binge-watching our favorite shows.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;As humans, we need to rest and recharge even more than our devices do.&lt;/p&gt;
-&lt;/blockquote&gt;</content><category term="Leadership"></category><category term="wwcode"></category><category term="priorities"></category><category term="advice"></category></entry><entry><title>Archives from princiya.com/blog</title><link href="https://princiya.com/newblog/archives-from-princiyacomblog.html" rel="alternate"></link><published>2022-06-15T00:00:00+02:00</published><updated>2022-06-15T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2022-06-15:/newblog/archives-from-princiyacomblog.html</id><content type="html">&lt;p&gt;This is my new blog home based on Pelican.&lt;/p&gt;
-&lt;p&gt;See &lt;a href="./hello-pelican"&gt;hello-pelican&lt;/a&gt; post.&lt;/p&gt;
-&lt;p&gt;Meanwhile, all old posts are &lt;a href="https://princiya.com/blog"&gt;here&lt;/a&gt;. I hope to migrate all of them to one place, soon!&lt;/p&gt;</content><category term="Javascript"></category><category term="blog"></category></entry><entry><title>My Pitch</title><link href="https://princiya.com/newblog/my-pitch.html" rel="alternate"></link><published>2022-06-04T00:00:00+02:00</published><updated>2022-06-04T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2022-06-04:/newblog/my-pitch.html</id><summary type="html">&lt;p&gt;It's been 10 months since I joined Anaconda and I realised I hadn't updated my Linkedin bio or other references to reflect this new job in the description.&lt;/p&gt;
+&lt;/blockquote&gt;</content><category term="Leadership"></category><category term="wwcode"></category><category term="priorities"></category><category term="advice"></category></entry><entry><title>My Pitch</title><link href="https://princiya.com/newblog/my-pitch.html" rel="alternate"></link><published>2022-06-04T00:00:00+02:00</published><updated>2022-06-04T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2022-06-04:/newblog/my-pitch.html</id><summary type="html">&lt;p&gt;It's been 10 months since I joined Anaconda and I realised I hadn't updated my Linkedin bio or other references to reflect this new job in the description.&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
 &lt;p&gt;I 💙 food and JavaScript! At Anaconda, I am now getting Pythonised!&lt;/p&gt;
