@@ -24,6 +24,7 @@ What is important or what is to be prioritized in this situation is to realize t
 Time management is a common topic of my discussions within the community. Some people know and acknowledge they are in a time crisis, but others are shy or hesitant to admit this. In order to have a good time balance, it is important to unlearn saying yes to everything, learn to say “NO,” and learn to prioritize what’s most important for oneself.
 
 Following is a good checklist to consider when learning to say “No” to new tasks:
+
 - What purpose does this serve? “Be selfish, and identify what is most important to you” is what I constantly tell the volunteers.
 - Does this purpose align with my goals and priorities?
 - How might this drain my energy or motivation?
