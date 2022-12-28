@@ -1,4 +1,4 @@
-Title: Is career in tech high pressure?
+Title: How to handle anxiety at work?
 Date: 2022-09-01
 Category: Mentoring
 Tags: advice, career
