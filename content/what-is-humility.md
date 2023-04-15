@@ -1,7 +1,7 @@
 Title: What is humility
 Date: 2022-09-15
-Category: Draft
-Tags: notes
+Category: Leadership
+Tags: EM
 
 Humility is the anecdote to arrogance. Humility is a recognition that we don’t know, that we were wrong, that we’re not better than anyone else.
 Humility is simple to understand but hard to practice.

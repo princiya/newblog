@@ -1,7 +1,7 @@
 Title: Is career in tech high pressure?
 Date: 2022-08-31
-Category: Mentoring
-Tags: advice, career
+Category: Leadership
+Tags: career, mentoring
 
 > I want to hear your opinion/experience on whether a career in tech is high pressure, depending on whether the role is in a startup, consultancy or something else(?). 
 

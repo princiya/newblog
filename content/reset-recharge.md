@@ -1,7 +1,7 @@
 Title: Reset and Recharge - my first keynote
 Date: 2022-05-26
-Category: Talks
-Tags: career, story, advice, wwcode
+Category: Leadership
+Tags: career, story, advice, wwcode, speaking
 Cover: images/reset.png
 
 ![Cover image](images/reset.png)

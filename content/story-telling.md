@@ -1,7 +1,7 @@
 Title: Story telling inspiration
 Date: 2022-08-15
-Category: Draft
-Tags: notes
+Category: Notes
+Tags: draft, writing
 
 Lin Clark https://code-cartoons.com/
 Maggie Appleton https://maggieappleton.com/drawinginvisibles1

@@ -1,7 +1,7 @@
 Title: Hello Pelican!
 Date: 2022-05-20
-Category: Python
-Tags: blog, story
+Category: Announcement
+Tags: blog
 Cover: images/pelican.jpg
 
 ![Cover image](./images/pelican.jpg)

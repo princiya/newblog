@@ -1,7 +1,7 @@
 Title: 3 tips for volunteer management
 Date: 2022-06-15
 Category: Leadership
-Tags: wwcode, priorities, advice
+Tags: wwcode, time management, advice
 
 As a Leadership Fellow at Women Who Code, I talk to many folks interested in volunteering. These folks are either students or full-time job holders. They are usually excited about the prospect, but many fail to balance their time or even find the time and are ultimately unable to uphold their volunteering commitments.
 

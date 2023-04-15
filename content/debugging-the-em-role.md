@@ -45,3 +45,11 @@ You’ll work closely with product managers, design, and engineers to influence 
 You’ll help shape an environment of psychological safety which values experimentation and continuous learning. 
 
 You’ll influence and provide feedback on the organizational culture and processes, always looking for opportunities to improve in a continuous pursuit for excellence.
+
+## How to evaluate Engineering Managers?
+
+- Execution: Does the team delivery consistently?
+- Team development: Team growth, scope, problems and challenges solved
+    - People management: Attrition, retention, promotions
+    - Strategic vision for team growth
+    - Organisational influence: hiring, interviews, hackdays, foss fridays

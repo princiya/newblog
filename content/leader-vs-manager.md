@@ -1,7 +1,7 @@
 Title: Leader vs Manager
 Date: 2022-05-28
 Category: Leadership
-Tags: interview
+Tags: interview, EM
 
 I am an Engineering Manager and an Engineering Leader. What is the difference?
 

@@ -1,7 +1,7 @@
 Title: What to learn
 Date: 2022-05-29
-Category: Mentoring
-Tags: learning
+Category: Leadership
+Tags: mentoring
 
 Today is the end of the 4 day long weekend. I have had a great Sunday so far, and I still have time today to quickly jot down something for a daily blog post.
 

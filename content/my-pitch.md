@@ -1,6 +1,6 @@
 Title: My Pitch
 Date: 2022-06-04
-Category: Bio
+Category: Leadership
 Tags: resume, pitch
 
 It's been 10 months since I joined Anaconda and I realised I hadn't updated my Linkedin bio or other references to reflect this new job in the description.
@@ -34,5 +34,19 @@ Skills:
 - Empathetic leadership and strong communication
 - Strategic, Relator, Achiever, Learner, and Responsibility. 
 - Translate tech jargon into meaningful cartoons and mental models
+
+--- 
+
+ChatGPT generated bio:
+
+Princiya Marina Sequeira is an accomplished software engineer, with over 10 years of experience in the field. Sequeira earned her Bachelor of Engineering degree in Computer Science from the University of Mumbai, India, before pursuing her Masters in Software Engineering at the University of Oxford in the UK.
+
+Throughout her career, Sequeira has worked for some of the largest tech companies in the world, including Google, Amazon, and Microsoft. In addition to her work as a software engineer, she has also been recognized for her leadership abilities, having served as an engineering manager at multiple organizations.
+
+Sequeira's engineering expertise spans a wide range of areas, including cloud computing, machine learning, and web applications. She is passionate about leveraging technology to solve real-world problems and improve people's lives.
+
+Outside of work, Sequeira is an avid traveler and has explored over a dozen countries. She is also passionate about social causes and volunteers her time with several non-profit organizations, both locally and internationally.
+
+With her extensive experience, technical expertise, and passion for innovation, Princiya Marina Sequeira is a dynamic and innovative leader in the software engineering industry.
 
 

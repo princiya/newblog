@@ -1,7 +1,7 @@
 Title: Job hunting advice for beginners
 Date: 2022-09-07
-Category: Mentoring
-Tags: advice, career
+Category: Leadership
+Tags: advice, career, mentoring
 
 Regarding the article that I mentioned about a portfolio website is not important while applying for your first developer job, [here](https://profy.dev/article/portfolio-websites-survey) is the link to it.
 

@@ -1,6 +1,6 @@
 Title: Resume Review
 Date: 2022-02-15
-Category: Mentoring
+Category: Leadership
 Tags: career, job, resume
 Cover: images/resume.jpg
 

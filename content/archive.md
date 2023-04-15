@@ -1,6 +1,6 @@
 Title: Archives from princiya.com/blog
 Date: 2023-12-31
-Category: Javascript
+Category: Announcement
 Tags: blog
 
 This is my new blog home based on Pelican.

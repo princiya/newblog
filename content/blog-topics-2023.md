@@ -1,7 +1,7 @@
 Title: Dump of my blog topics
 Date: 2022-12-01
-Category: Draft
-Tags: notes
+Category: Notes
+Tags: draft
 
 ## Blog topics
 

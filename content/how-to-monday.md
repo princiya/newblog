@@ -1,7 +1,7 @@
 Title: How do I prepare for a Monday
 Date: 2022-05-23
 Category: Leadership
-Tags: priorities, time
+Tags: time management
 Cover: images/monday.jpg
 
 ![Cover image](./images/monday.jpg)

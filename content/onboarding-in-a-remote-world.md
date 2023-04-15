@@ -1,7 +1,7 @@
 Title: My onboarding experience in a remote world
 Date: 2022-05-24
 Category: Leadership
-Tags: onboarding
+Tags: onboarding, EM
 Cover: images/onboard.jpg
 
 ![Cover image](images/onboard.jpg)

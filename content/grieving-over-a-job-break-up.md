@@ -1,7 +1,7 @@
 Title: Grieving over a job break up
 Date: 2022-05-22
-Category: Mentoring
-Tags: job, story
+Category: Leadership
+Tags: story
 Cover: images/grief.jpg
 
 ![Cover image](images/grief.jpg)

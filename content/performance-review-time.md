@@ -1,7 +1,7 @@
 Title: How to prepare for performance reviews
 Date: 2023-01-12
-Category: Leadership, Mentoring
-Tags: advice, career
+Category: Leadership
+Tags: advice, career, EM
 
 It's that time of the year, for performance reviews. I want to write here about how you could plan it better and be prepared.
 

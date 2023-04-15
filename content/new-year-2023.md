@@ -1,7 +1,7 @@
 Title: Hello new year 2023!
 Date: 2023-01-09
 Category: Journal
-Tags: learning
+Tags: random
 
 It's new years' time! Hope you all had a good holiday season, I did. I was in US in December; one week in Austin, Texas followed by another week in New York.
 

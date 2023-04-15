@@ -1,7 +1,7 @@
 Title: How does a successful career look like
 Date: 2022-05-25
-Category: Mentoring
-Tags: career, interview
+Category: Leadership
+Tags: career, interview, mentoring
 
 I had to replace my sick colleague today for an interview. As an Engineering Manager I do a lot of interviews as the hiring manager. Today's interview I was in the panel to test the candidate's ability & humility.
 

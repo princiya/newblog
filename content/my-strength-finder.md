@@ -1,7 +1,7 @@
 Title: My Leadership Strengths
 Date: 2022-11-01
 Category: Leadership
-Tags: notes
+Tags: EM
 
 My Top 5 Themes
 1. Strategic

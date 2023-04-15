@@ -1,7 +1,7 @@
 Title: How to handle anxiety at work?
 Date: 2022-09-01
-Category: Mentoring
-Tags: advice, career
+Category: Leadership
+Tags: advice, mentoring
 
 > I am going through a lot of stress and anxiety these days and also I switched to new job. I am unable to perform since I am not focussed. Also taking some counselling. My manager has appointed a team lead to work with me daily for 2 hour and now gives me regular feedback, they pin point me for very small thing now. I feel somehow my job is not secured. Can I gave my this reason to employer for stress and anxiety as a reason to them for not being able to concentrate.? Will it secure my job ? 
 
