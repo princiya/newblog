@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>P's blog - Leadership</title><link href="https://princiya.com/newblog/" rel="alternate"></link><link href="https://princiya.com/newblog/feeds/leadership.atom.xml" rel="self"></link><id>https://princiya.com/newblog/</id><updated>2023-04-16T00:00:00+02:00</updated><entry><title>EM should code or not?</title><link href="https://princiya.com/newblog/em-should-code-or-not.html" rel="alternate"></link><published>2023-04-16T00:00:00+02:00</published><updated>2023-04-16T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2023-04-16:/newblog/em-should-code-or-not.html</id><summary type="html">&lt;p&gt;An EM's job description and expectations vary from company to company.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>P's blog - Leadership</title><link href="https://princiya.com/newblog/" rel="alternate"></link><link href="https://princiya.com/newblog/feeds/leadership.atom.xml" rel="self"></link><id>https://princiya.com/newblog/</id><updated>2023-05-26T00:00:00+02:00</updated><entry><title>Imposter Syndrome</title><link href="https://princiya.com/newblog/imposter-syndrome.html" rel="alternate"></link><published>2023-05-26T00:00:00+02:00</published><updated>2023-05-26T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2023-05-26:/newblog/imposter-syndrome.html</id><summary type="html">&lt;p&gt;This post is from a LinkedIn snippet and not mine.&lt;/p&gt;
+&lt;p&gt;"Too often, we put pressure on ourselves to have everything figured out before we get started."&lt;/p&gt;
+&lt;p&gt;We want the perfect plan, the perfect execution, and the perfect outcome. But here's the truth: we'll never be able to perfectly predict the …&lt;/p&gt;</summary><content type="html">&lt;p&gt;This post is from a LinkedIn snippet and not mine.&lt;/p&gt;
+&lt;p&gt;"Too often, we put pressure on ourselves to have everything figured out before we get started."&lt;/p&gt;
+&lt;p&gt;We want the perfect plan, the perfect execution, and the perfect outcome. But here's the truth: we'll never be able to perfectly predict the future, our initial assumptions are often inaccurate, and there are many things we don't even know that we don't know. Liz’s illustration captures this well.&lt;/p&gt;
+&lt;p&gt;Taking the first step is crucial, as it helps you move from inaction to action. The path to success is rarely linear, but by embracing imperfection and uncertainty, you'll develop resilience and adaptability.&lt;/p&gt;
+&lt;p&gt;Here's a simple approach I’ve found helpful for many of my team’s projects:&lt;/p&gt;
+&lt;p&gt;1️⃣ Define the problem: Clearly articulate the challenge or goal you're trying to tackle. This sets your intention and focuses your energy. Know how you’ll measure success.&lt;/p&gt;
+&lt;p&gt;2️⃣ Make a flexible plan: Develop a plan, but be prepared to change it. Think of it as a roadmap, not a rigid script. This keeps you open to new ideas and opportunities.&lt;/p&gt;
+&lt;p&gt;3️⃣ Revisit and adjust: Regularly review your progress and make any necessary adjustments. This iterative process helps you learn, evolve, and make improvements along the way.&lt;/p&gt;
+&lt;p&gt;Remember, progress over perfection.&lt;/p&gt;
+&lt;p&gt;In case you’re curious how this applies to OKRs (objectives and key results): We review our OKRs on a quarterly basis and make necessary adjustments. This regular check-in allows you to learn from your successes and failures, and to adapt your strategies based on the evolving circumstances.&lt;/p&gt;
+&lt;p&gt;When you accept that the journey will be imperfect, you open yourself up to growth, learning, and ultimately, success. So, give yourself permission to take that first step and trust that you'll learn and improve as you go.&lt;/p&gt;</content><category term="Leadership"></category><category term="draft"></category></entry><entry><title>Why are we slow to deliver?</title><link href="https://princiya.com/newblog/why-are-we-slow-to-deliver.html" rel="alternate"></link><published>2023-04-26T00:00:00+02:00</published><updated>2023-04-26T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2023-04-26:/newblog/why-are-we-slow-to-deliver.html</id><summary type="html">&lt;p&gt;I have been pondering about this tweet a lot!
+https://twitter.com/hnshah/status/1647328545205817344
+It is not entirely tech debt for us, but overall we as PSP team are struggling because we cannot be fast and there are so many things we keep firefighting that are not visible outside …&lt;/p&gt;</summary><content type="html">&lt;p&gt;I have been pondering about this tweet a lot!
+https://twitter.com/hnshah/status/1647328545205817344
+It is not entirely tech debt for us, but overall we as PSP team are struggling because we cannot be fast and there are so many things we keep firefighting that are not visible outside. We need to work on that. I don't know HOW, but worth starting from somewhere.
+We need to try different approaches or be open to try. For example: the change in our release testing, i.e introducing the internal release process is something i think will optimise our overall release regression test cycle.
+What F raised is another valid point. We do need to find the balance between "customer is the king" vs "product engineering best practices".
+do it multiple times vs do it once and right which might be a little more time consuming
+we do need to understand the tradeoffs here, i.e. sometimes reacting to a customer issue with hacky ways and quick fixes might really help us but other times the time and effort to do things the right way would be way cheaper and faster.
+we as a team need to get better in understanding this tradeoff and there is no right or wrong way here but more like "what would fit to the custom situation we are in"
+3. inter-team collaboration, not receiving timely feedback:
+    a. have design docs or architecture decision records here to keep track of decisions made and feedback.
+    b. when people really want to come back to give feedback or realise why are we taking a particular approach, then this documentation would help.
+    c. not always people would come back to give feedback. everyone is busy at their own pace, and may not have the right context at a particular point of time.
+    d. we cannot be blocked by waiting for feedback but need to know that the right people involved are taking the right decision and stay accountable and own the topic.
+    e. share async snippets and ask for feedback with a deadline and send timely reminders.&lt;/p&gt;</content><category term="Leadership"></category><category term="draft"></category></entry><entry><title>EM should code or not?</title><link href="https://princiya.com/newblog/em-should-code-or-not.html" rel="alternate"></link><published>2023-04-16T00:00:00+02:00</published><updated>2023-04-16T00:00:00+02:00</updated><author><name>Princiya Sequeira</name></author><id>tag:princiya.com,2023-04-16:/newblog/em-should-code-or-not.html</id><summary type="html">&lt;p&gt;An EM's job description and expectations vary from company to company.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Should an EM know how to code?&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -128,14 +155,17 @@ For beginners new to this, do the following:&lt;/p&gt;
 3. Achiever
 4. Learner
 5. Responsibility&lt;/p&gt;
-&lt;h2&gt;Strategic&lt;/h2&gt;
-&lt;p&gt;People who are especially talented in the Strategic theme create alternative ways to proceed. Faced with any given scenario, they can quickly spot the relevant patterns and issues.&lt;/p&gt;
-&lt;p&gt;I too indentify being strategic is one …&lt;/p&gt;</summary><content type="html">&lt;p&gt;My Top 5 Themes
+&lt;p&gt;With a keen eye for Strategy, I am adept at identifying opportunities for growth and improvement, formulating comprehensive plans, and executing them effectively. This has enabled me to drive positive change and deliver outstanding results consistently …&lt;/p&gt;</summary><content type="html">&lt;p&gt;My Top 5 Themes
 1. Strategic
 2. Relator
 3. Achiever
 4. Learner
 5. Responsibility&lt;/p&gt;
+&lt;p&gt;With a keen eye for Strategy, I am adept at identifying opportunities for growth and improvement, formulating comprehensive plans, and executing them effectively. This has enabled me to drive positive change and deliver outstanding results consistently.&lt;/p&gt;
+&lt;p&gt;Relationship-building is another core strength of mine, as I believe that fostering strong connections with colleagues, clients, and stakeholders is crucial for long-term success. By cultivating trust, empathy, and open communication, I have been able to create synergistic partnerships that have propelled projects and initiatives forward.&lt;/p&gt;
+&lt;p&gt;A strong sense of Achievement drives me to constantly push boundaries and strive for excellence in everything I undertake. This unwavering commitment to delivering high-quality outcomes has been a key factor in my ability to exceed expectations and contribute meaningfully to the organizations I have been a part of.&lt;/p&gt;
+&lt;p&gt;As a lifelong learner, I am passionate about acquiring new knowledge and skills, and I am always eager to embrace new challenges. This Learning mindset has allowed me to adapt quickly to evolving industry trends and technologies, ensuring that I remain at the forefront of my field.&lt;/p&gt;
+&lt;p&gt;Lastly, my sense of Responsibility is deeply ingrained in my work ethic. I take ownership of my actions and decisions, and I am committed to upholding the highest standards of integrity and professionalism. This dedication to responsibility has been essential in building trust and credibility with my teams and clients, ultimately contributing to the overall success of the projects I have managed.&lt;/p&gt;
 &lt;h2&gt;Strategic&lt;/h2&gt;
 &lt;p&gt;People who are especially talented in the Strategic theme create alternative ways to proceed. Faced with any given scenario, they can quickly spot the relevant patterns and issues.&lt;/p&gt;
 &lt;p&gt;I too indentify being strategic is one of my biggest strengths.&lt;/p&gt;
