@@ -163,3 +163,41 @@ S3 migration from EFS
 AS tech concepts, mirroring, eve, sbom
 Kendo PoC
 BDD QA
+
+---
+
+1:1 prompts: How much of personal information to share?
+
+career aspirations:
+B's expectations:
+move to L3.
+find ownership
+side effects, things out of scope.
+mature enough. skills for L3 not just tech skills. 
+kill the repocore tiger team, kill the codebase
+focus on the learning curve.
+build reselience from the mental state. be ready for ambiguity, navigating conflicts.
+find balance with ways of working. FOMO, get over it. trying to read all PRs.
+wants to be a valuable team member.
+trying to achieve everything in short span of time. FOMO
+define priorities. ownership vs career path.
+timing is important.
+burnout can be real, frustration can happen.
+B's interests:
+always looking into TM PR. F is on leave, so Burak could step in?
+finding areas of impact - needs help. new areas or old areas
+signature verfication - old topic revived and delivered very fast. very good onboarding topic.
+fullstack experience was very helpful.
+impact: how much of A's workload can he share? can B be the goto person
+
+how to encourage teams to talk?
+> how can we make  scope more clear without knowing questions in people mind?
+
+> it was a very internal meeting, i thought people were less shy about questions but still..
+
+- start with the assumption that nothing is clear to people
+- try to conclude the meeting with a summary, leave ample time during the meeting to summarise and follow up with questions
+- the summary and follow up part can also be done async, doesn't have to happen during the meeting itself
+- while summarising, either ask someone to summarise or if you were to do it, then ask people to rate the summary in terms of thumbs up or down.
+- when it is obvious there are gaps, ask people to responf proactively.
+- keep repeating yourself!
